@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlanIntent</string>
+    <string name="plan_title_hint">Enter a title for the plan.</string>
+    <string name="plan_title_label">Title</string>
+    <string name="plan_details_label">Details</string>
+    <string name="plan_finished_label">Finished</string>
+</resources>
